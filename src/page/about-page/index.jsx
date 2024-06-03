@@ -13,7 +13,7 @@ const AboutPage = () => {
             <b>Surname</b> : <p>Atakişiyev</p>
             <b>Age</b> : <p>20</p>
             <b>Education</b> : <p>120 saylı tam orta məktəb | 2010-2021</p>
-            <p>Azərbaycan Texniki Universiteti | 2021-2024</p>
+            <p>Azərbaycan Texniki Universiteti | 2021-2025</p>
             <b>Skills</b> :
             <p>
               HTML | Css | SaSS | JavaScript | Bootstrap | React | NodeJS |
